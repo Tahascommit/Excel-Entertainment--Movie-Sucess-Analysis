@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" >
   <img src="https://github.com/Tahascommit/Excel-Entertainment-Movie-Sucess-Analysis/blob/68f7e67324e0d95fd2a6dfb06beac7fc14105968/assets/Cover_image.png" width="703" height="340">
 </p >
 
