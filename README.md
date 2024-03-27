@@ -3,7 +3,7 @@
 </p >
 
 
-# Excel-Entertainment Movie Sucess Analysis
+# Excel-Entertainment Movie Success Analysis
 This repository hosts a pair of Excel dashboards, which dissect film industry data to extract insights on production budgets, box office gross, and cinematic trends for GPO6 Infotainment. The dashboards reveal top production houses, forecast future earnings, and parse movie performance by genre, assisting in strategic decision-making and trend analysis within the entertainment sector.
 
 # Dasboard Snaps
